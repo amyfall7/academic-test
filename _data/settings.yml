@@ -1,5 +1,5 @@
 menu:
-  - {name: 'accueil', url: '/accueil'}
+- {name: 'Accueil', url: '/accueil'}
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
