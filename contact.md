@@ -1,4 +1,4 @@
 ---
-layout: contact
-title: "Contact"
+layout: membres
+title: "Membres"
 ---
