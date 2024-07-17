@@ -1,5 +1,4 @@
 menu:
-<<<<<<< HEAD
 - {name: 'accueil', url: '/accueil'}
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
