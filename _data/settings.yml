@@ -1,9 +1,6 @@
 menu:
 <<<<<<< HEAD
 - {name: 'Accueil', url: '/accueil'}
-=======
-- {name: 'accueil', url: '/accueil'}
->>>>>>> 21d5524d3d6b5e9a57e32dd392be5a2c5b0d3270
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
