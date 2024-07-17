@@ -1,6 +1,6 @@
 menu:
 <<<<<<< HEAD
-- {name: 'Accueil', url: '/accueil'}
+- {name: 'accueil', url: '/accueil'}
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
