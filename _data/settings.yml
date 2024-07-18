@@ -28,3 +28,6 @@ membres:
 
 about:
 - {name: 'ARIANE GT3'}
+
+img:
+  -{name: 'image:'assets/img/ariane.png'}
