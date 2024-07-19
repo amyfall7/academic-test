@@ -8,7 +8,7 @@ menu:
 accueil :
   {name:"accueil"}
 webographie:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Medieval Digital Resources(MDR)', lien: 'https://mdr-maa.org/', description: 'Le Medieval Digital Resources est une base de données organisée de matériaux numériques évalués par des pairs pour l'étude du Moyen Âge. ', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 - {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
