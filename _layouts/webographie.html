@@ -10,7 +10,8 @@ layout: default
   <div class="col-md-6">
     <h5>{{ webographie.name }}</h5>
     <p>Email: {{ webographie.email }}</p>
-    <a href="{{ webographie.url }}">Lien: </a>
+    <p>Lien: {{ webographie.url }}</p>
+        <p>Description: {{ webographie.text }}</p>
     <p><a href="{{ site.github.url }}/webographie/{{ webographie.url }}">More info</a></p>
   </div>
   <div class="col-md-6">
